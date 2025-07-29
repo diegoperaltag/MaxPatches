@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 9,
 			"minor" : 0,
-			"revision" : 5,
+			"revision" : 7,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 355.0, 87.0, 1051.0, 717.0 ],
+		"rect" : [ -147.0, -993.0, 1194.0, 959.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -990,7 +990,7 @@
 					"patching_rect" : [ 1350.0, 1232.0, 279.0, 73.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 2,
-					"presentation_rect" : [ 1318.0, 158.0, 279.0, 73.0 ],
+					"presentation_rect" : [ 1295.0, 169.333338379859924, 279.0, 73.0 ],
 					"text" : "diego peralta-gonzales\nmarch 2025"
 				}
 
@@ -1236,7 +1236,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2139,8 +2139,7 @@
 								}
 
 							}
- ],
-						"originid" : "pat-50"
+ ]
 					}
 ,
 					"patching_rect" : [ 87.5, 924.166643738746643, 44.0, 22.0 ],
@@ -3179,7 +3178,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -3503,7 +3502,7 @@
 										"appversion" : 										{
 											"major" : 9,
 											"minor" : 0,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -3833,8 +3832,7 @@
 												}
 
 											}
- ],
-										"originid" : "pat-54"
+ ]
 									}
 ,
 									"patching_rect" : [ 127.0, 92.0, 49.0, 22.0 ],
@@ -4110,8 +4108,7 @@
 								}
 
 							}
- ],
-						"originid" : "pat-52"
+ ]
 					}
 ,
 					"patching_rect" : [ 1112.0, 681.0, 472.0, 22.0 ],
@@ -5932,7 +5929,7 @@
 						"appversion" : 						{
 							"major" : 9,
 							"minor" : 0,
-							"revision" : 5,
+							"revision" : 7,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -6256,7 +6253,7 @@
 										"appversion" : 										{
 											"major" : 9,
 											"minor" : 0,
-											"revision" : 5,
+											"revision" : 7,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -6586,8 +6583,7 @@
 												}
 
 											}
- ],
-										"originid" : "pat-64"
+ ]
 									}
 ,
 									"patching_rect" : [ 127.0, 92.0, 49.0, 22.0 ],
@@ -6863,8 +6859,7 @@
 								}
 
 							}
- ],
-						"originid" : "pat-62"
+ ]
 					}
 ,
 					"patching_rect" : [ 600.0, 481.5, 472.0, 22.0 ],
@@ -8768,7 +8763,6 @@
 
 			}
  ],
-		"originid" : "pat-6",
 		"parameters" : 		{
 			"obj-117" : [ "number[7]", "number[6]", 0 ],
 			"obj-118" : [ "number[8]", "number[5]", 0 ],
@@ -8797,12 +8791,13 @@
 		"dependency_cache" : [ 			{
 				"name" : "yafr2.maxpat",
 				"bootpath" : "~/Library/Application Support/Cycling '74/Max 9/Examples/effects/reverb/lib",
-				"patcherrelativepath" : "../../../Library/Application Support/Cycling '74/Max 9/Examples/effects/reverb/lib",
+				"patcherrelativepath" : "../../../../Library/Application Support/Cycling '74/Max 9/Examples/effects/reverb/lib",
 				"type" : "JSON",
 				"implicit" : 1
 			}
  ],
-		"autosave" : 0
+		"autosave" : 0,
+		"oscreceiveudpport" : 0
 	}
 
 }
